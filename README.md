@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ceyase
+- 👀 I'm a Chinese,and I am trying to find a nb-plus coder
+- 🌱 I'm learning cpp and c# <-_->
